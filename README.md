@@ -1,9 +1,9 @@
-# Step5(2023-08-02) #
+#### Step5(2023-08-02) https://github.com/next-step/android-calculator-mvp/pull/208
     * [x] 이전 단계의 기능 요구 사항을 만족해야 한다.
     * [x] MVP 패턴으로 구현한다.
     * [x] Presenter의 모든 로직에 대한 단위 테스트를 구현한다.
 
-# Step4(2023-07-31) #
+#### Step4(2023-07-31) https://github.com/next-step/android-calculator-mvp/pull/202
     * [x] 사용자가 클릭한 값에 따라서 사칙 연산을 수행하는 계산기 구현 및 테스트 코드 추가
         * [x] 사용자가 입력한 숫자를 화면에 보여줘야 한다.
         * [x] 숫자를 연속해서 입력한 경우에는 연속된 숫자를 보여줘야 한다. 
@@ -27,7 +27,7 @@
         * [x] Expression이 Calculator에 대한 의존성을 가지던 문제 수정
         * [x] View.OnClickListener -> 기능 함수로 수정
 
-# Step3(2023-07-29) #
+#### Step3(2023-07-29) https://github.com/next-step/android-calculator-mvp/pull/190
     * [x] 사용자가 입력한 문자열 값에 따라 사칙 연산을 수행할 수 있는 계산기 구현
     * 피드백
         * [x] 연산자로 시작 or 종료인 경우 테스트 코드 추가
@@ -38,14 +38,13 @@
         * [x] CalculationExpression 클래스 -> Object 수정(함수만 사용하므로)
         * [x] operatorItems 데이터 클래스 제거 & toCalculate 파라미터 추가
 
-
-# Step2(2023-07-26) #
+#### Step2(2023-07-26) https://github.com/next-step/android-calculator-mvp/pull/183
     * [x] domain 모듈 분리
     * 피드백
         * [x] domain 모듈은 순수 코틀린 모듈
         * [x] JavaVersion.VERSION_1_7 -> JavaVersion.VERSION_1_8
 
-### Step1(2023-07-25) https://github.com/next-step/android-calculator-mvp/pull/180
+#### Step1(2023-07-25) https://github.com/next-step/android-calculator-mvp/pull/180
     * [x] 사용자가 피연산자 0 ~ 9 버튼을 누르면 화면에 해당 숫자가 화면에 보여야 한다.
 
 
