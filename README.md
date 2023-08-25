@@ -45,7 +45,7 @@
         * [x] domain 모듈은 순수 코틀린 모듈
         * [x] JavaVersion.VERSION_1_7 -> JavaVersion.VERSION_1_8
 
-# Step1(2023-07-25) #
+### Step1(2023-07-25) https://github.com/next-step/android-calculator-mvp/pull/180
     * [x] 사용자가 피연산자 0 ~ 9 버튼을 누르면 화면에 해당 숫자가 화면에 보여야 한다.
 
 
